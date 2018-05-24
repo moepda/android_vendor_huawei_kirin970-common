@@ -3002,3 +3002,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-27/libicuuc.so:system/lib64/vndk-27/libicuuc.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-27/libneuralnetworks.so:system/lib64/vndk-27/libneuralnetworks.so \
     vendor/huawei/kirin970-common/proprietary/lib64/libwifi-system.so:system/lib64/libwifi-system.so
+
+PRODUCT_PACKAGES += \
+    HotwordEnrollmentOKGoogleHI6403 \
+    HotwordEnrollmentXGoogleHI6403
