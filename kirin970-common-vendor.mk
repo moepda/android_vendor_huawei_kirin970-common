@@ -3001,3 +3001,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-sp-26/libpng.so:system/lib64/vndk-sp-26/libpng.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-sp-26/libunwind.so:system/lib64/vndk-sp-26/libunwind.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-sp-26/libutils.so:system/lib64/vndk-sp-26/libutils.so
+
+PRODUCT_PACKAGES += \
+    HotwordEnrollmentOKGoogleHI6403 \
+    HotwordEnrollmentXGoogleHI6403
