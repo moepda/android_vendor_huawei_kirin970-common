@@ -2682,6 +2682,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.hidl.token@1.0-utils.so:system/lib/vndk-26/android.hidl.token@1.0-utils.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.hidl.token@1.0.so:system/lib/vndk-26/android.hidl.token@1.0.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.system.wifi.keystore@1.0.so:system/lib/vndk-26/android.system.wifi.keystore@1.0.so \
+    vendor/huawei/kirin970-common/proprietary/lib/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so:system/lib/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/libEGL.so:system/lib/vndk-26/libEGL.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/libaudioclient.so:system/lib/vndk-26/libaudioclient.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/libaudiomanager.so:system/lib/vndk-26/libaudiomanager.so \
@@ -2858,6 +2859,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/android.hidl.token@1.0-utils.so:system/lib64/vndk-26/android.hidl.token@1.0-utils.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/android.hidl.token@1.0.so:system/lib64/vndk-26/android.hidl.token@1.0.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/android.system.wifi.keystore@1.0.so:system/lib64/vndk-26/android.system.wifi.keystore@1.0.so \
+    vendor/huawei/kirin970-common/proprietary/lib64/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so:system/lib64/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/libEGL.so:system/lib64/vndk-26/libEGL.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/libaudioclient.so:system/lib64/vndk-26/libaudioclient.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vndk-26/libaudiomanager.so:system/lib64/vndk-26/libaudiomanager.so \
